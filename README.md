@@ -1,3 +1,7 @@
+### What is this?
+
+This is a JavaScript Physics Engine that does not (yet?) exist.
+
 ### Features
 
 - Authored in TypeScript
