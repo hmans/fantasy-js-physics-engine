@@ -1,6 +1,6 @@
 ### What is this?
 
-This is a JavaScript Physics Engine that does not (yet?) exist.
+This is a JavaScript Physics Engine that does not (yet?) exist. [See this Tweet](https://twitter.com/hmans/status/1520346369629769729).
 
 ### Features
 
