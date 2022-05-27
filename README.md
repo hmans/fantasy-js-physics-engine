@@ -21,3 +21,9 @@ _TODO: write more about available options, and their shortcomings._
 **Supports fixed and variable steps**.
 
 **Performance-minded**, eg. uses SoA ECS to reduce GC pressure, etc.
+
+## FAQ
+
+### But doesn't WASM give much better performance?
+
+_TODO: write about WASM disadvantages & uncertainties_
